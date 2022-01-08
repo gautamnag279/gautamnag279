@@ -1,8 +1,8 @@
 - 👋 Hi, I'm Gautam Nag. 
 - 🥏 I'm trained in the field of Electrical and Electronics Engineering.
-- 👀 I’m new to the field of software engineering and am passionated towards the field of Data Science & Automation.
-- 🌱 I’m currently learning application developement and Linux based VMs.
-- 💞️ I’m looking to collaborate on OSPs that allows me explore the domain of DS and automation further.
+- 👀 I’m new to the field of software engineering and am passionated towards the field of Web Development & Automation.
+- 🌱 I’m currently learning Web UI / Datasource and Functional Testing.
+- 💞️ I’m looking to collaborate on OSPs that allows me explore the domain web development further.
 - 📫 You can find me on LinkedIn or email me at gn8732@srmist.edu.in
 
 <!---
