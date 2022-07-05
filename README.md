@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gautamnag279&label=Profile%20views&color=0e75b6&style=flat" alt="gautamnag279" /> </p>
 
-<img align = "right" alt = "Coding" width = "400" src = "https://github.com/gautamnag279/gautamnag279/blob/main/1UEn.gif">
+<img align = "right" alt = "Coding" width = "400" src = "https://github.com/gautamnag279/gautamnag279/blob/main/BipN%20(1).gif">
 
 - 🌱 I’m currently learning **Web Development and Animation**
 
