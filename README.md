@@ -9,7 +9,8 @@
 
 - 🌱 I’m currently learning **Web Development and Animation**
 
-- 📫 How to reach me **gautamnag279@gmail.com**
+- 📫 You can drop me a mail at **gautam.nag@cognizant.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gautamnag279" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gautamnag279" height="30" width="40" /></a>
