@@ -11,7 +11,7 @@
 
 - 📫 You can drop me a mail at **gautam.nag@cognizant.com**
 
-- 🎶 I make Lofi Hip Hop in my free time <a href="https://www.youtube.com/channel/UCyy3_b0ZBhb1pjRIF4-dgHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyy3_b0zbhb1pjrif4-dgha" height="30" width="40" /></a>
+- 🎶 I make Lofi Hip Hop mixes in my leisure time <a href="https://www.youtube.com/channel/UCyy3_b0ZBhb1pjRIF4-dgHA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucyy3_b0zbhb1pjrif4-dgha" height="30" width="40" /></a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
