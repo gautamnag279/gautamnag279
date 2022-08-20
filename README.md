@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Gautam 👋</h1>
-<h3 align="center">A Web Developer based in Bangalore, Karnataka</h3>
+<h3 align="center">A Software Enginner based in Pune, Maharashtra</h3>
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gautamnag279&label=Profile%20views&color=0e75b6&style=flat" alt="gautamnag279" /> </p>
