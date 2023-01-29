@@ -1,4 +1,4 @@
-### :zap: GitHub Trophies 🏆
+<!-- ### :zap: GitHub Trophies 🏆
 
 <img src="https://github.com/gautamnag279/gautamnag279/blob/main/images/Line.gif">
 <!-- <p align="center">
@@ -6,11 +6,11 @@
     <img width="75%" src="https://github-profile-trophy.vercel.app/?username=gautamnag279&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
 </p> -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/lucthienphong1120/github-trophies" target="_blank">
     <img width="75%" src="https://github-trophies.vercel.app/?username=gautamnag279&column=4&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=radical"/>
   </a>
-</p>
+</p> -->
 
 ### :zap: Most used languages ❤️
 
